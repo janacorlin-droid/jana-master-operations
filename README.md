@@ -1,0 +1,2 @@
+# jana-master-operations
+Aitomations
